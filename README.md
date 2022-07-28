@@ -1,1 +1,1 @@
-[DEMO LINK](https://<your_account>.github.io/react_redux-list-of-todos/)
+[DEMO LINK](https://enrikadej.github.io/react_redux-list-of-todos/)
